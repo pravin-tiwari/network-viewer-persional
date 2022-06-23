@@ -1,0 +1,4 @@
+var Styles = {"brandBlue":"#1395f0","value-cell":"NetworkTableHeader-styles__value-cell___3cYwS","value-text":"NetworkTableHeader-styles__value-text___2j6c-","thead":"NetworkTableHeader-styles__thead___3yU_z","filename":"NetworkTableHeader-styles__filename___2g5vE","domain":"NetworkTableHeader-styles__domain___2x8Yp","timeline-header":"NetworkTableHeader-styles__timeline-header___2tIGm","network-table-row":"NetworkTableHeader-styles__network-table-row___1WaPe","pending":"NetworkTableHeader-styles__pending___3QqQp","error":"NetworkTableHeader-styles__error___3zf2U","highlight":"NetworkTableHeader-styles__highlight___1E9Nq","tooltip":"NetworkTableHeader-styles__tooltip___1d3Jl","url-tooltip":"NetworkTableHeader-styles__url-tooltip___QHFP_"};
+
+export default Styles;
+//# sourceMappingURL=NetworkTableHeader.styles.scss.js.map

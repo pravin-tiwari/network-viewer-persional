@@ -71,10 +71,10 @@ typings/
 
 # production
 /build
-/lib
+# /lib
 /examples/build
-/es6
-/umd
+# /es6
+# /umd
 
 # misc
 .DS_Store
